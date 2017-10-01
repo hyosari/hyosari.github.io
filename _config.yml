@@ -17,7 +17,7 @@ github_username: hyosari
 #facebook_username: facebook_username
 #twitter_username: twitter_username
 #instagram_username: instagram_username
-linkedin_username: hyosari7@mgmail.com
+linkedin_username: hyosari7@gmail.com
 #medium_username: medium_username
 
 # Build settings
@@ -33,11 +33,11 @@ gems:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: "/"
   - title: About
-    url: /about/
+    url: "/about.md"
   - title: Contact
-    url: /contact/
+    url: "/contact.md"
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
