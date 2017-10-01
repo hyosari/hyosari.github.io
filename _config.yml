@@ -3,7 +3,7 @@ title: Hyosari's Bookmark
 email: hyosari7@gmail.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.hyosari.com" # the base hostname & protocol for your site
+url: "https://hyosari.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
