@@ -35,9 +35,9 @@ links:
   - title: Home
     url: "/"
   - title: About
-    url: "/about.md"
+    url: "/about"
   - title: Contact
-    url: "/contact.md"
+    url: "/contact"
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
